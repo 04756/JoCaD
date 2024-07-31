@@ -1,6 +1,9 @@
 # JoCaD
 
-The full code will be made public after the paper is published
+The artical has been published, welcome to cite it.
+Yang, H., Yin, H., Yang, Z. et al. JoCaD: a joint training method by combining consistency and diversity. Multimed Tools Appl 83, 64573–64589 (2024). https://doi.org/10.1007/s11042-024-18221-z
+
+If you want to have the full code, please contact me or Corresponding author.
 
 # Abstract
 
